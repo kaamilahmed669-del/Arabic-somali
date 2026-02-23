@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-arabic: "Amiri Quran", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-gold: #C8A951;
+  --color-dark-bg: #1a202c;
+  --color-dark-text: #e2e8f0;
+  --color-dark-secondary-text: #a0aec0;
+  --color-dark-card-bg: #2d3748;
+}
+
+@layer base {
+  body {
+    @apply bg-dark-bg text-dark-text font-sans;
+  }
+
+  /* Dark mode by default */
+  :root {
+    --tw-bg-opacity: 1;
+    background-color: var(--color-dark-bg);
+    color: var(--color-dark-text);
+  }
+
+  /* Gold accent color utility */
+  .text-gold {
+    color: var(--color-gold);
+  }
+
+  .bg-gold {
+    background-color: var(--color-gold);
+  }
+
+  .border-gold {
+    border-color: var(--color-gold);
+  }
+
+  /* Arabic font utility */
+  .font-arabic {
+    font-family: var(--font-arabic);
+  }
+}

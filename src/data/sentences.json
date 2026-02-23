@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "arabicText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "somaliTranslation": "Mahad oo dhan Alle ayay u sugnaatay, Rabbiga caalamka.",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_1.mp3"
+  },
+  {
+    "id": "2",
+    "arabicText": "الرَّحْمَنِ الرَّحِيمِ",
+    "somaliTranslation": "Naxariista guud iyo naxariista gaaraba leh.",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_2.mp3"
+  },
+  {
+    "id": "3",
+    "arabicText": "مَالِكِ يَوْمِ الدِّينِ",
+    "somaliTranslation": "Mulkiilaha maalinta abaalmarinta.",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_3.mp3"
+  },
+  {
+    "id": "4",
+    "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "somaliTranslation": "Adiga kaliya ayaan ku caabudnaa, adiga kaliya ayaana kaa kaalmeysanaa.",
+    "difficulty": "medium",
+    "audioUrl": "/audio/placeholder_4.mp3"
+  },
+  {
+    "id": "5",
+    "arabicText": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "somaliTranslation": "Nagu hanuuni jidka toosan.",
+    "difficulty": "medium",
+    "audioUrl": "/audio/placeholder_5.mp3"
+  },
+  {
+    "id": "6",
+    "arabicText": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "somaliTranslation": "Jidka kuwa aad nimcaysay, ee aan ahayn kuwa aad cadhootay, ama kuwa lumay.",
+    "difficulty": "hard",
+    "audioUrl": "/audio/placeholder_6.mp3"
+  },
+  {
+    "id": "7",
+    "arabicText": "السلام عليكم ورحمة الله وبركاته",
+    "somaliTranslation": "Nabadgalyo, naxariista Alle iyo barakadiisa korkiinna ha ahaato.",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_7.mp3"
+  },
+  {
+    "id": "8",
+    "arabicText": "كيف حالك اليوم؟",
+    "somaliTranslation": "Sidee tahay maanta?",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_8.mp3"
+  },
+  {
+    "id": "9",
+    "arabicText": "أنا بخير، شكراً لك",
+    "somaliTranslation": "Waan fiicanahay, mahadsanid.",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_9.mp3"
+  },
+  {
+    "id": "10",
+    "arabicText": "ما اسمك؟",
+    "somaliTranslation": "Magacaa?",
+    "difficulty": "easy",
+    "audioUrl": "/audio/placeholder_10.mp3"
+  }
+]
